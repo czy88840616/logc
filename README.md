@@ -11,3 +11,5 @@ Very simple logging utility for Node.js that make slight changes to the output t
     logger.warn("This should not happen but we can recover from it and continue");
     logger.error("This is something that should not happen and we cannot continue");
 ```
+
+![snip20150601_8](https://cloud.githubusercontent.com/assets/418820/7905679/21cc7414-084f-11e5-84e9-bd669aa714ae.png)
