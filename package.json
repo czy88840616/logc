@@ -1,0 +1,27 @@
+{
+  "name": "logc",
+  "version": "1.0.0",
+  "description": "simple and colorful  Node.js logging module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/czy88840616/logc"
+  },
+  "keywords": [
+    "nodejs",
+    "logger",
+    "colors"
+  ],
+  "author": "czy88840616@gmail.com",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/czy88840616/logc/issues"
+  },
+  "homepage": "https://github.com/czy88840616/logc",
+  "dependencies": {
+    "colors": "~1.1.0"
+  }
+}
